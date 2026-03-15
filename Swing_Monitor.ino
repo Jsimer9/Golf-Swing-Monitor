@@ -33,7 +33,7 @@ String webpage = R"rawliteral(
 <html>
 <head>
 
-<title>Golf Swing Monitor</title>
+<title>Swing Monitor</title>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
